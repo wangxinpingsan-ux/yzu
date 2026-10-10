@@ -1,0 +1,11 @@
+num=int(input('enter five digit number '))
+d5=num%10
+num//=10
+d4=num%10
+num//=10
+d3=num%10
+num//=10
+d2=num%10
+num//=10
+d1=num%10
+print(d1,d2,d3,d4,d5,sep='   ')
