@@ -9,3 +9,4 @@ venv/
 *.obj
 .DS_Store
 Thumbs.db
+tempCodeRunnerFile.py
